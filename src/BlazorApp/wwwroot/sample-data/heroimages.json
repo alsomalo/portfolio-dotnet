@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/iphone.jpg",
-    "alt": "black iphone on laptop"
+    "name": "Наш депутат",
+    "src": "images/photo_2023-04-13_13-11-30.jpg",
+    "alt": "фото Мещерякова А. А."
   },
   {
-    "name": "about",
-    "src": "images/mosaic.svg",
-    "alt": "purple and blue abstract background"
+    "name": "О депутатской деятельности",
+    "src": "images/photo_2023-04-13_11-09-44.jpg",
+    "alt": "фото из открытого телеграм канала"
   },
   {
-    "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "name": "Упоминания в СМИ",
+    "src": "images/photo_2023-02-15_10-40-18.jpg",
+    "alt": "хорошее фото :)"
   }
 ]
