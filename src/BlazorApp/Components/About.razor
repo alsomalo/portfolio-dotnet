@@ -38,7 +38,7 @@
     protected override async Task OnInitializedAsync()
     {
         aboutme = await Http.GetFromJsonAsync<AboutMe>("sample-data/aboutme.json");
-        hero = await HeroImageService.GetHeroAsync(img => img.Name is "about");
+        hero = await HeroImageService.GetHeroAsync(img => img.Name is "О депутатской деятельности");
 
     }
 }
